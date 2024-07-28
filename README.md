@@ -1,5 +1,5 @@
 # Windows-User-Changer
-A simple windows user changer for entertainment:>
+Change Password of the user without the old one!
 
 ## Features
 
